@@ -52,15 +52,3 @@ The dataset used in this project is `zomato.csv`, which contains information abo
    pip install -r requirements.txt
    ```
 3. Run the Jupyter Notebook to explore the analysis.
-
-## Future Work
-- Implement machine learning models for restaurant rating prediction
-- Analyze customer sentiment from review texts
-- Expand analysis with more diverse datasets
-
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or additional analyses.
-
-## License
-This project is licensed under the MIT License.
-
